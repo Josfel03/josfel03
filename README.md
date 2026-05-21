@@ -1,10 +1,8 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   AI Implementation Engineer & Automation Consultant     ║
-╚══════════════════════════════════════════════════════════╝
-```
+
+# AI Implementation Engineer & Automation Consultant    
+
 
 # José Felipe Morales López
 
