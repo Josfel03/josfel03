@@ -10,7 +10,7 @@
 **and async automation architectures that ship on time.**
 
 [![NASA Space Apps](https://img.shields.io/badge/NASA_Space_Apps_Challenge-Top_11%25_Global-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)](https://www.spaceappschallenge.org/)
-[![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)
+[![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/HP95V5TSGR25)
 
 </div>
 
@@ -48,12 +48,6 @@ Currently operating as an independent consultant: scoping requirements, architec
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-#### 🔌 Hardware & IoT
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ADS1115](https://img.shields.io/badge/ADS1115_ADC-37474F?style=flat-square&logo=raspberrypi&logoColor=white)
-![INA219](https://img.shields.io/badge/INA219_Sensor-546E7A?style=flat-square&logo=raspberrypi&logoColor=white)
-
 ---
 
 ## Featured Achievements
@@ -90,7 +84,7 @@ I work with clients who know what they need and value clarity over buzzwords.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josfel-ml/)
 
 > *Available for project-based consulting, technical advisory, and workshop delivery.*  
-> *Response within 24 hours. No recruiters for full-time roles.*
+> *Response within 24 hours.*
 
 ---
 
